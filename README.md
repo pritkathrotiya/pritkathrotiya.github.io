@@ -1,2 +1,2 @@
-# pritkathrotiyaresume.github.io
+# pritkathrotiya.github.io
 My Resume
